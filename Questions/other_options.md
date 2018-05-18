@@ -20,21 +20,27 @@ swap   4G
 下面是安装截图 :
 
 **1./boot挂载**
+
 ![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_45_06.png)
 
 **2./挂载**
+
 ![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_45_31.png)
 
 **3./home挂载**
+
 ![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_45_58.png)
 
 **4.出现此错误的原因是,没有指定ESP分区,即对于使用UEFI的计算机,须指定ESP分区**
+
 ![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_46_21.png)
 
 **解决方案: 找到启动文件的分区,"更改" 按钮,选择ESP分区**
 
 **5.可以得知交换空间swap的分配为可选项**
+
 ![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_48_10.png)
 
 **6.分区完成,继续即可**
+
 ![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_48_24.png)
