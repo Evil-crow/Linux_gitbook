@@ -21,3 +21,11 @@
 任何一个开源项目,都是从最基础地做起. 
 
 分享你自己的经验与知识, 从这小小一步开始 !
+
+
+* * *
+
+### 项目成员和贡献者:
+
+Evil-crow <Evilcrow486@gmail.com>
+fujie <fujie.me@qq.com>
