@@ -13,6 +13,8 @@
 
 1. Ubuntu
 
+	![](http://p8pmsq2a4.bkt.clouddn.com/ubuntu.jpeg)
+
  Ubuntu已经是一个老牌的发行版本了,比较推荐新手使用.
 
  **简单,方便,社区支持完备,其中的LTS版本更是值得一试.**
@@ -22,6 +24,8 @@
  **推荐指数: 5**
 
 2. Deepin
+
+	![](http://p8pmsq2a4.bkt.clouddn.com/deepin.jpeg)
 
  在国产领域,也有着不错的操作系统,Deepin便是其中的佼佼者.
 
@@ -35,6 +39,8 @@
 
 3. Fedora
 
+	![](http://p8pmsq2a4.bkt.clouddn.com/fedora.jpeg)
+
  Fedora也是很推荐的一款发行版本了.Fedora是RedHat在推行了RHEL后的社区版本
 
  相当于RedHat的社区版本,背后有着强大的支持,虽然社区不像Ubuntu一样活跃
@@ -44,6 +50,8 @@
  **推荐指数: 4**
 
 4. CentOs
+
+	![](http://p8pmsq2a4.bkt.clouddn.com/centos.jpeg)
 
  CentOs与RedHat之间也有着不得不说的关系
 
@@ -57,6 +65,8 @@
 
 5. OpenSUSE
 
+	![](http://p8pmsq2a4.bkt.clouddn.com/openSUSE.jpeg)
+
  Linux三大发行版,OpenSUSE作为其中最不知名的,市场一直比较小众
 
  但是,在个人操作系统领域,OpenSUSE是最最稳定的发行版,安装时捆绑2000多包
@@ -66,6 +76,8 @@
  **推荐指数: 3**
 
 6. Arch
+
+	![](http://p8pmsq2a4.bkt.clouddn.com/arch.jpeg)
 
  上面提到的发行版,都是包含了许多软件包的发行版,从某一方面来讲,比较冗杂.
 
