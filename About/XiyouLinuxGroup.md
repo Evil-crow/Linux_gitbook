@@ -1,5 +1,7 @@
 ## Xiyou Linux Group
 
+![XiyouLinuxGroup](https://www.xiyoulinux.org/images/xiyoulinux.png)
+
 西邮Linux兴趣小组直属于西安邮电大学计算机学院
 
 由王亚刚老师,王聪,刘洋等同学于2006年9月策划并组建

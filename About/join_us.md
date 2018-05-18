@@ -29,4 +29,4 @@
 
 Evil-crow <Evilcrow486@gmail.com>
 
-fujie <fujie.me@qq.com>
+fujie <fujie@xiyoulinux.org>
