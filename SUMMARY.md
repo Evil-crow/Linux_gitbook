@@ -11,5 +11,5 @@
     * [3.3安装位置](Installation/installation_position.md)
 * 4.问题与解答
     * [4.1其他选项](Questions/other_options.md)
-    * 4.2待续
+    * [4.2 Test](Questions/test.md)
 * [5.XiyouLinuxGroup](XiyouLinuxGroup/XiyouLinuxGroup.md)
