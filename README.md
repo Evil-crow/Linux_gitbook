@@ -12,3 +12,5 @@
  地址:西安邮电大学东区逸夫楼FZ118 
 
  可以随时交流任何与技术相关的内容 !  
+ 
+ [在线Wiki(基于Gitbook)>>](https://xiyoulinuxgroup.gitbook.io/linux-installation/)
