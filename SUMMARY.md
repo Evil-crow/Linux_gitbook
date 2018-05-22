@@ -12,6 +12,9 @@
 * 4.问题与解答
     * [4.1其他选项](Questions/other_options.md)
     * [4.2无法进入桌面环境](Questions/out_of_desktop.md)
+    * [4.3Ubuntu安装卡logo](Questions/nvidia.md)
+    * [4.4奇怪的硬盘模式](Questions/not_AHCI.md)
 * 5.关于
     * [5.1XiyouLinuxGroup](About/XiyouLinuxGroup.md)
     * [5.2join us!](About/join_us.md)
+* [6.附录](tools.md)
