@@ -9,8 +9,10 @@
 
  XiyouLinux交流群: 312674502 
 
- 地址:西安邮电大学东区逸夫楼FZ118 
+ 地址:西安邮电大学东区逸夫楼FZ103
 
  可以随时交流任何与技术相关的内容 !  
  
  [在线Wiki(基于Gitbook)>>](https://xiyoulinuxgroup.gitbook.io/linux-installation/)
+ 
+ [Github地址,欢迎提交issue, PR>>](https://github.com/Evil-crow/Linux_gitbook)
