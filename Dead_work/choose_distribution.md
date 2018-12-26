@@ -13,7 +13,7 @@
 
 1. Ubuntu
 
-	![](http://p8pmsq2a4.bkt.clouddn.com/ubuntu.jpeg)
+	![](http://www.qiniu.evilcrow.site/Linux_ubuntu.jpeg)
 
  Ubuntu已经是一个老牌的发行版本了,比较推荐新手使用.
 
@@ -25,7 +25,7 @@
 
 2. Deepin
 
-	![](http://p8pmsq2a4.bkt.clouddn.com/deepin.jpeg)
+	![](http://www.qiniu.evilcrow.site/Linux_deepin.jpeg)
 
  在国产领域,也有着不错的操作系统,Deepin便是其中的佼佼者.
 
@@ -39,7 +39,7 @@
 
 3. Fedora
 
-	![](http://p8pmsq2a4.bkt.clouddn.com/fedora.jpeg)
+	![](http://www.qiniu.evilcrow.site/Linux_fedora.jpeg)
 
  Fedora也是很推荐的一款发行版本了.Fedora是RedHat在推行了RHEL后的社区版本
 
@@ -51,7 +51,7 @@
 
 4. CentOs
 
-	![](http://p8pmsq2a4.bkt.clouddn.com/centos.jpeg)
+	![](http://www.qiniu.evilcrow.site/Linux_centos.jpeg)
 
  CentOs与RedHat之间也有着不得不说的关系
 
@@ -65,7 +65,7 @@
 
 5. OpenSUSE
 
-	![](http://p8pmsq2a4.bkt.clouddn.com/openSUSE.jpeg)
+	![](http://www.qiniu.evilcrow.site/Linux_openSUSE.jpeg)
 
  Linux三大发行版,OpenSUSE作为其中最不知名的,市场一直比较小众
 
@@ -77,7 +77,7 @@
 
 6. Arch
 
-	![](http://p8pmsq2a4.bkt.clouddn.com/arch.jpeg)
+	![](http://www.qiniu.evilcrow.site/Linux_arch.jpeg)
 
  上面提到的发行版,都是包含了许多软件包的发行版,从某一方面来讲,比较冗杂.
 

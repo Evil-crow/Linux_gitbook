@@ -18,7 +18,7 @@ Secure Boot 是什么? 有什么用? 这是一个不小的话题
 
 一般在"Security 或者 Boot"导航夹内可以找到 Secure Boot 选项.如下图所示.
 
-![](http://oww4cv296.bkt.clouddn.com/sbjc4.jpg)
+![](http://www.qiniu.evilcrow.site/Linux_secure_boot1.jpg)
 
 再按键盘上下键,选中"Disabled",意思是关闭SecureBoot.
 
@@ -26,7 +26,7 @@ Secure Boot 是什么? 有什么用? 这是一个不小的话题
 
 之后会重启计算机.
 
-![](http://oww4cv296.bkt.clouddn.com/sbjc5.jpg)
+![](http://www.qiniu.evilcrow.site/Linux_secure_boot2.jpg)
 
 > 注意: 有些BIOS中的secureboot选项是灰色的,
 

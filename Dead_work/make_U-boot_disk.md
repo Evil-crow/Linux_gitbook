@@ -16,7 +16,7 @@ U盘启动盘 : **顾名思义,就是将U盘作为一个启动盘,进行发行�
 
 下面是使用Rufus制作U盘启动盘的演示
 
-![](http://oww4cv296.bkt.clouddn.com/dsdsds.jpg)
+![](http://www.qiniu.evilcrow.site/Linux_rufus.jpg)
 
 其中牵扯到 MBR/GPT,传统BIOS/UEFI这几个概念,
 

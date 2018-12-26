@@ -20,4 +20,4 @@
 
 至于,哪里是合理的区域,请大家自行进行判断,如有问题,可以随时交流.
 
-![](http://oww4cv296.bkt.clouddn.com/1.jpg)
+![](http://www.qiniu.evilcrow.site/Linux_install_block.jpg)
