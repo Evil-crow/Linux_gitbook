@@ -21,26 +21,26 @@ swap   4G
 
 **1./boot挂载**
 
-![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_45_06.png)
+![](http://www.qiniu.evilcrow.site/Linux_virtual_box_boot.png)
 
 **2./挂载**
 
-![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_45_31.png)
+![](http://www.qiniu.evilcrow.site/Linux_virtual_box_root_mount.png)
 
 **3./home挂载**
 
-![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_45_58.png)
+![](http://www.qiniu.evilcrow.site/Linux_virtual_box_home_mount.png)
 
 **4.出现此错误的原因是,没有指定ESP分区,即对于使用UEFI的计算机,须指定ESP分区**
 
-![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_46_21.png)
+![](http://www.qiniu.evilcrow.site/Linux_virtual_box_ESP_mount.png)
 
 **解决方案: 找到启动文件的分区,"更改" 按钮,选择ESP分区**
 
 **5.可以得知交换空间swap的分配为可选项**
 
-![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_48_10.png)
+![](http://www.qiniu.evilcrow.site/Linux_virtual_box_swap_mount.png)
 
 **6.分区完成,继续即可**
 
-![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_48_24.png)
+![](http://www.qiniu.evilcrow.site/Linux_virtual_box_comtinue_mount.png)

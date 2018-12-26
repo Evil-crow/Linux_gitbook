@@ -10,7 +10,7 @@
 
 问题症状: 开机界面卡logo (卡logo,就像你爸打你,不讲道理)
 
-![Ubuntu卡logo](http://p8pmsq2a4.bkt.clouddn.com/Ubuntu_logo.jpg)
+![Ubuntu卡logo](http://www.qiniu.evilcrow.site/Linux_virtual_box_Ubuntu_logo.jpg)
 
 推测问题: 10系显卡,双显卡电源切换有问题.
 
@@ -18,7 +18,7 @@
 
 1. 开机到启动菜单,在Ubuntu一项上 按"e",进入编辑模式
 
-	![grub的编辑菜单](http://p8pmsq2a4.bkt.clouddn.com/grub_e.gif)
+	![grub的编辑菜单](http://www.qiniu.evilcrow.site/Linux_virtual_box_grub_e.gif)
 
 	如上图所示,即为grub的编辑菜单.(PS: 此处是临时修改,所以不会影响grub.cfg文件,请大家放心)
 

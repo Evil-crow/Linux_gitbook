@@ -14,7 +14,7 @@ df -h    # 查看文件占用情况
 
 我们可以得到下图, 知道 / 目录占用满
 
-![](http://p8pmsq2a4.bkt.clouddn.com/df_h.png)
+![](http://www.qiniu.evilcrow.site/Linux_outdesktop_df_h.png)
 
 那么,我们下来的步骤就是: 继续深入, 找出 / 目录下占用空间最大的文件
 

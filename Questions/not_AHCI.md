@@ -14,7 +14,7 @@
 
 而且,一不小心,会出现致命的问题:
 
-![默认Bios设置](http://p8pmsq2a4.bkt.clouddn.com/intel_RST_Premium.jpg)
+![默认Bios设置](http://www.qiniu.evilcrow.site/Linux_vitual_box_intel_RST_Premium.jpg)
 
 就是说,在intel RST Premium硬盘模式下安装Win,但是你安装Linux,肯定是要切换至AHCI硬盘模式的
 
