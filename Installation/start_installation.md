@@ -25,4 +25,4 @@
 	Advanced options
 	Help
 	```
-![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_36_15.png)
+![](http://www.qiniu.evilcrow.site/Linux_virtual_box_start.png)

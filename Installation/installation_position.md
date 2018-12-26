@@ -11,7 +11,7 @@
 
 3. 其他选项
 ```
-![](http://oww4cv296.bkt.clouddn.com/VirtualBox_Ubuntu1604_20_12_2017_22_40_34.png)
+![](http://www.qiniu.evilcrow.site/Linux_virtual_box_auto_install.png)
 
 **( 进行安装位置的选择,由于是虚拟机,所以缺少"与Windows Boot Mnaager兼容"选项 )**
 
